@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lorxadide
+- 👋 Hi, I’m @KHendrix
 - 👀 I’m interested in Network administration, System Administration, Machine Learning and AI
 - 🌱 I’m currently learning NNFS (Neural Networks From Scratch
 - 💞️ I’m looking to collaborate on nothing so far
